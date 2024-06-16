@@ -1,7 +1,12 @@
+import Films from './containers/Films/Films';
 import './App.css';
 
 function App() {
-  return <></>;
+  return (
+    <>
+      <Films />
+    </>
+  );
 }
 
 export default App;
